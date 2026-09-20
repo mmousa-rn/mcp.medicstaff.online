@@ -1,0 +1,6 @@
+{
+  "name": "medicstaff-mcp-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Branded-URL proxy: forwards mcp.medicstaff.online to the MedicStaff Supabase MCP edge function."
+}
